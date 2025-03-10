@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/topTechStore/static/css/main.fb4e76a3.css",
-    "main.js": "/topTechStore/static/js/main.704f9633.js",
-    "static/js/488.398dfbfd.chunk.js": "/topTechStore/static/js/488.398dfbfd.chunk.js",
-    "static/media/credit.png": "/topTechStore/static/media/credit.071b68f4c8a9473b1e00.png",
-    "static/media/tv.png": "/topTechStore/static/media/tv.15faeb1b4dda9890de89.png",
-    "static/media/black-friday.png": "/topTechStore/static/media/black-friday.e3e05d081c52078e423b.png",
-    "static/media/laptop.jpg": "/topTechStore/static/media/laptop.9db4b91c15c2b36ea03c.jpg",
-    "static/media/gaming.jpg": "/topTechStore/static/media/gaming.fab41a54858f6f1ca920.jpg",
-    "static/media/logo.png": "/topTechStore/static/media/logo.b8806f39fac399bed5a4.png",
-    "static/media/audio.jpeg": "/topTechStore/static/media/audio.f9b889c9bd589a6ce845.jpeg",
-    "static/media/apliances.jpg": "/topTechStore/static/media/apliances.1c4512c4e107f87a6066.jpg",
-    "static/media/shopping-cart.png": "/topTechStore/static/media/shopping-cart.b4588f4683c8c1fa34da.png",
-    "static/media/instagram.png": "/topTechStore/static/media/instagram.b6580d9364412b20a257.png",
-    "static/media/remove.png": "/topTechStore/static/media/remove.14f2e2131fc8dac4969b.png",
-    "static/media/search.png": "/topTechStore/static/media/search.9818b5556b00722fa1d1.png",
-    "static/media/mobile.jpg": "/topTechStore/static/media/mobile.82631a20dc8f01807a9d.jpg",
-    "index.html": "/topTechStore/index.html",
-    "main.fb4e76a3.css.map": "/topTechStore/static/css/main.fb4e76a3.css.map",
-    "main.704f9633.js.map": "/topTechStore/static/js/main.704f9633.js.map",
-    "488.398dfbfd.chunk.js.map": "/topTechStore/static/js/488.398dfbfd.chunk.js.map"
+    "main.css": "/static/css/main.642f1cf5.css",
+    "main.js": "/static/js/main.86d0b5b9.js",
+    "static/js/488.398dfbfd.chunk.js": "/static/js/488.398dfbfd.chunk.js",
+    "static/media/credit.png": "/static/media/credit.071b68f4c8a9473b1e00.png",
+    "static/media/tv.png": "/static/media/tv.15faeb1b4dda9890de89.png",
+    "static/media/black-friday.png": "/static/media/black-friday.e3e05d081c52078e423b.png",
+    "static/media/laptop.jpg": "/static/media/laptop.9db4b91c15c2b36ea03c.jpg",
+    "static/media/gaming.jpg": "/static/media/gaming.fab41a54858f6f1ca920.jpg",
+    "static/media/logo.png": "/static/media/logo.b8806f39fac399bed5a4.png",
+    "static/media/audio.jpeg": "/static/media/audio.f9b889c9bd589a6ce845.jpeg",
+    "static/media/apliances.jpg": "/static/media/apliances.1c4512c4e107f87a6066.jpg",
+    "static/media/shopping-cart.png": "/static/media/shopping-cart.b4588f4683c8c1fa34da.png",
+    "static/media/instagram.png": "/static/media/instagram.b6580d9364412b20a257.png",
+    "static/media/remove.png": "/static/media/remove.14f2e2131fc8dac4969b.png",
+    "static/media/search.png": "/static/media/search.9818b5556b00722fa1d1.png",
+    "static/media/mobile.jpg": "/static/media/mobile.82631a20dc8f01807a9d.jpg",
+    "index.html": "/index.html",
+    "main.642f1cf5.css.map": "/static/css/main.642f1cf5.css.map",
+    "main.86d0b5b9.js.map": "/static/js/main.86d0b5b9.js.map",
+    "488.398dfbfd.chunk.js.map": "/static/js/488.398dfbfd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb4e76a3.css",
-    "static/js/main.704f9633.js"
+    "static/css/main.642f1cf5.css",
+    "static/js/main.86d0b5b9.js"
   ]
 }
